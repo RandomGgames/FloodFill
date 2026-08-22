@@ -1,16 +1,17 @@
 {
-	"values": [
-		"minecraft:air",
-		"minecraft:brown_mushroom",
-		"minecraft:bubble_column",
-		"minecraft:cave_air",
-		"minecraft:fire",
-		"minecraft:glow_lichen",
-		"minecraft:lava",
-		"minecraft:red_mushroom",
-		"minecraft:sculk_sensor",
-		"minecraft:sculk_vein",
-		"minecraft:void_air",
-		"minecraft:water"
-	]
+    "values": [
+        "minecraft:air",
+        "minecraft:brown_mushroom",
+        "minecraft:bubble_column",
+        "minecraft:cave_air",
+        "minecraft:fire",
+        "minecraft:glow_lichen",
+        "minecraft:lava",
+        "minecraft:pointed_dripstone",
+        "minecraft:red_mushroom",
+        "minecraft:sculk_sensor",
+        "minecraft:sculk_vein",
+        "minecraft:void_air",
+        "minecraft:water"
+    ]
 }
