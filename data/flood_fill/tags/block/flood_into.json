@@ -1,5 +1,6 @@
 {
     "values": [
+        "#minecraft:flowers",
         "minecraft:air",
         "minecraft:brown_mushroom",
         "minecraft:bubble_column",
@@ -7,6 +8,7 @@
         "minecraft:fire",
         "minecraft:glow_lichen",
         "minecraft:lava",
+        "minecraft:leaf_litter",
         "minecraft:pointed_dripstone",
         "minecraft:red_mushroom",
         "minecraft:sculk_sensor",
